@@ -6,7 +6,7 @@ using System.Runtime.ConstrainedExecution;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _1_sav
+namespace Savarankiskas1
 {
     class RaidziuDazniai
     {
